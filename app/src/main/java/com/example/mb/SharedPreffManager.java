@@ -50,6 +50,7 @@ public class SharedPreffManager {
         editor.commit();
     }
     public SharedPreferences GetPrefs(){
+        // грешен резултат !!!!
         return sharedPreferences;
     }
 
